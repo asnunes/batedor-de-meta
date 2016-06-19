@@ -63,4 +63,4 @@ Enviar uma alteração
 
 -   Clique em "Send pull request"
 
-### Pronto, agora eu e o alenunes vamos poder ver o que você editou do projeto, e vamos poder aceitar/recusar o seu commit
+### Pronto, agora eu e o alenunes vamos poder ver o que você editou no projeto, e vamos poder aceitar/recusar o seu commit. Foi através de um “Pull request” que eu adicionei o arquivo CONTRIBUTING.md ao projeto do alenunes, para ensinar como os novos desenvolvedores devem proceder para contribuir com o projeto. Esse arquivo é o que você está lendo agora :)
